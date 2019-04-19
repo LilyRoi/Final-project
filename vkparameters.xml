@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<Parameters>
+		<Parameter id = "1">   
+			<owner_id>538134391</owner_id>
+			<message>Post 1</message>
+			<access_token>4c403a1ad1443f463e9813388a06f372e7dfed86ed0652bee8fb82bd7b1f2b274ed71fe27f061d7b413dd</access_token>
+		</Parameter>
+		<Parameter id = "2"> 
+			<owner_id>538134391</owner_id>
+			<message>Post 2</message>
+			<access_token>4c403a1ad1443f463e9813388a06f372e7dfed86ed0652bee8fb82bd7b1f2b274ed71fe27f061d7b413dd</access_token>
+		</Parameter>
+	</Parameters>
+
